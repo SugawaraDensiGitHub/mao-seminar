@@ -3,4 +3,5 @@ master +2
 hoge
 hoge hoge
 
-test1
+test1-1
+test1-2
